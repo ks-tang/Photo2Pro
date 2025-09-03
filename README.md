@@ -30,7 +30,7 @@ Avec un éditeur d'image, coloriez en noir la partie que vous ne voulez pas modi
 
 ## Exemple
 
-<table>
+<table align="center">
   <tr>
     <td><img src="photo.jpg" width="300"></td>
     <td><img src="results/portrait_pro33.jpg" width="300"></td>
