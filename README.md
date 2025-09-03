@@ -28,12 +28,23 @@ Avec un éditeur d'image, coloriez en noir la partie que vous ne voulez pas modi
 
 2. Modifier le prompt dans script.py pour changer le style de la tenue.
 
-## Exemple
+## Exemples
 
 <table align="center">
   <tr>
     <td><img src="photo.jpg" width="300"></td>
     <td><img src="results/portrait_pro33.jpg" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Image originale</td>
+    <td align="center">Image générée</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td><img src="photo.jpg" width="300"></td>
+    <td><img src="results/portrait_pro24.jpg" width="300"></td>
   </tr>
   <tr>
     <td align="center">Image originale</td>
